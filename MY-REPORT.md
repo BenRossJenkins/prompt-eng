@@ -9,7 +9,7 @@ This research explores how advanced prompt engineering techniques—including Re
 
 ## **Authors**
 - Ben Jenkins
-**Academic Supervisor:** [Dr. Fernando Koch](http://www.fernandokoch.me)  
+- **Academic Supervisor:** [Dr. Fernando Koch](http://www.fernandokoch.me)  
 
 ---
 
@@ -82,7 +82,8 @@ Can AI-powered hiring systems be improved through advanced **prompt engineering 
 
 ---
 
-**Conclusion:** This research validates that **AI hiring decisions significantly improve** with advanced **prompt engineering techniques**. 🚀  
+**Conclusion:** This research validates that **AI hiring decisions significantly improve** with advanced **prompt engineering techniques**. 
+
 **Final Recommendation:** **Hybrid approaches combining Multi-Persona + Self-Consistency + Reverse Prompting offer the most balanced AI hiring solution.**  
 
 ---
