@@ -134,7 +134,7 @@ A **hybrid approach** combining:
 
 **Final Evaluation: 10/10** 
 This work **exceeds expectations**, demonstrating:  
-✔ **Structured AI hiring evaluation**  
-✔ **Methodical prompt engineering**  
-✔ **Comprehensive comparative analysis**  
-✔ **Optimized experimental runs**  
+- **Structured AI hiring evaluation**  
+- **Methodical prompt engineering**  
+- **Comprehensive comparative analysis**  
+- **Optimized experimental runs**  
