@@ -105,7 +105,7 @@ This experiment tested AI’s ability to **self-reflect, refine hiring decisions
 | **Phi3**     | 0.5 | 38.44s | Most efficient, favoring **concise summaries**. |
 | **Phi3**     | 1.0 | 27.69s | Identified **lack of senior experience** in resume. |
 
-🔹 **Key Takeaways:**  
+**Key Takeaways:**  
 - **Mistral (Temp 0.5) provided the most structured evaluation**.  
 - **Llama3 had the most detailed analysis but took longer**.  
 - **Phi3 was the fastest but lacked depth**.  
