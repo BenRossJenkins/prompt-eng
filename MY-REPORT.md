@@ -86,7 +86,7 @@ This experiment generated an optimized **AI resume evaluation prompt** before pr
 | **Phi3**     | 0.5 | 33.84s | Prioritized AI research contributions. |
 | **Phi3**     | 1.0 | 26.49s | Focused on certifications & affiliations. |
 
-🔹 **Key Takeaways:**  
+**Key Takeaways:**  
 - **Llama3 produced the most detailed prompts** but was **significantly slower**.  
 - **Mistral balanced clarity and efficiency**.  
 - **Phi3 was the fastest but lacked depth**.  
