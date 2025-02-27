@@ -71,6 +71,9 @@ Can AI-powered hiring systems be improved through advanced **prompt engineering 
 
 **Final Recommendation:** **Combining Reverse Prompting + ToT resulted in the best hiring decisions.**  
 
+The bar chart below highlights the trade-off between accuracy and computational efficiency, supporting the conclusion that a **hybrid approach combining Reverse Prompting and ToT** yields the best hiring decisions.
+
+![Performance Comparison](/Users/benjenkins/Downloads/promptresults.png)
 ---
 
 # **Multi-Level Prompting Experiment Analysis**
